@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert_data_salah</name>
+   <tag></tag>
+   <elementGuidId>974049e2-83a1-486b-87e0-d6c19750dd73</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__layout']/div/div[5]/div[2]/div/div[4]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.text-xxs.font-bold</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b851b3db-b0d6-450f-8c01-fdd9239f7d42</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-xxs font-bold</value>
+      <webElementGuid>ab170877-e5aa-474c-9772-d63ae0b113d9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Email, nomor ponsel / kata sandi kamu salah.</value>
+      <webElementGuid>69231a9b-b487-48a3-af8c-1332fe233492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__layout&quot;)/div[@class=&quot;bg-blue-1 flex flex-col min-h-screen text-white font-montserrat&quot;]/div[@class=&quot;vm--container&quot;]/div[@class=&quot;vm--modal modal-classes full-height mx-auto&quot;]/div[@class=&quot;text-white layout-login-wrapper&quot;]/div[@class=&quot;flex items-center p-2 bg-red-secondary border-red-secondary border-opacity-50 rounded-lg mb-6&quot;]/div[@class=&quot;w-11/12&quot;]/div[@class=&quot;text-xxs font-bold&quot;]</value>
+      <webElementGuid>a228740d-61f9-4752-bb19-b8930305915b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__layout']/div/div[5]/div[2]/div/div[4]/div/div</value>
+      <webElementGuid>4755007e-cffb-4cd3-a347-f5beda02d9da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atau'])[1]/following::div[3]</value>
+      <webElementGuid>0cf81b1c-b9b9-44f6-aa0e-fd859791f6bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Facebook'])[1]/following::div[4]</value>
+      <webElementGuid>d2bf0adb-fe53-4d4b-b625-a154fe445c6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✕'])[1]/preceding::div[2]</value>
+      <webElementGuid>0c2e27ed-3d79-4e2e-aaef-4ff3ff97a350</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lupa Kata Sandi'])[1]/preceding::div[10]</value>
+      <webElementGuid>48730d28-5d9d-4c06-9884-2ae033f24515</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Email, nomor ponsel / kata sandi kamu salah.']/parent::*</value>
+      <webElementGuid>552346f9-dd2f-4b4e-b8f0-3435b109fe95</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[4]/div/div</value>
+      <webElementGuid>d353488d-6e76-4677-9e33-7cdc07ace06a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Email, nomor ponsel / kata sandi kamu salah.' or . = 'Email, nomor ponsel / kata sandi kamu salah.')]</value>
+      <webElementGuid>f148b0bb-9b79-4d92-a986-f2ff89560c0b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

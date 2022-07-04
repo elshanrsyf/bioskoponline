@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>alert_masuk_berhasil</name>
+   <tag></tag>
+   <elementGuidId>4a1b578b-611e-4d48-86ac-005fb72780a5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[(text() = 'checkMasuk berhasil' or . = 'checkMasuk berhasil')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b2bf2159-40b3-4fbe-ba3b-ad1fdb3e6317</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toasted custom-toast toasted-primary default</value>
+      <webElementGuid>0bcd9004-ef80-4fed-9f1a-af113e7550e0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>checkMasuk berhasil</value>
+      <webElementGuid>c4fad51b-9781-4f0a-9413-449e9186d479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/div[@class=&quot;toasted custom-toast toasted-primary default&quot;]</value>
+      <webElementGuid>3d3aa2db-6e38-496f-9c21-1cc27311e680</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c09ec396-a83a-45d0-81e5-7565a405c7e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toasted custom-toast toasted-primary default</value>
+      <webElementGuid>bb93ee24-5b8d-45a6-a002-24aa6b4286a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>checkMasuk berhasil</value>
+      <webElementGuid>cc3bb638-6e93-4bdf-a93f-6a3cc78b479d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;haWzNVmZu&quot;)/div[@class=&quot;toasted custom-toast toasted-primary default&quot;]</value>
+      <webElementGuid>54c3fd70-37e8-4bf5-ae32-4af3cc5d1957</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'checkMasuk berhasil' or . = 'checkMasuk berhasil')]</value>
+      <webElementGuid>148e8959-e3e6-47fb-b788-3c9e674c0f96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='haWzNVmZu']/div</value>
+      <webElementGuid>a4f3b94d-81ef-46cc-94c1-c49396854415</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='© 2020 Bioskop Online dan semua perusahaan terkait.Hak cipta dilindungi undang-undang.'])[1]/following::div[2]</value>
+      <webElementGuid>82f44b3f-7977-4437-9b34-05a6b65e10fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bioskop Online Apps'])[1]/following::div[4]</value>
+      <webElementGuid>9e430d87-475c-4ee0-a5b3-610e002be1e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Masuk berhasil']/parent::*</value>
+      <webElementGuid>77741f0f-f069-4e4b-8178-1ff8bf352445</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div</value>
+      <webElementGuid>58c04ff7-ebe3-4870-8dad-5dcd39ba419b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
